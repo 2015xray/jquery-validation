@@ -1,4 +1,4 @@
-[jQuery Validation Plugin](http://jqueryvalidation.org/) - Form validation made easy
+[jQuery Validation Plugin](http://jqueryvalidation.org/) - 让表单验证更容易
 ================================
 
 [![Build Status](https://secure.travis-ci.org/jzaefferer/jquery-validation.svg)](http://travis-ci.org/jzaefferer/jquery-validation)
@@ -12,7 +12,7 @@ The jQuery Validation Plugin provides drop-in validation for your existing forms
 This project is looking for one or more maintainers. This mostly involves triaging issues, reviewing pull requests, and occasionally fixing bugs or finishing a feature implementation. If you're interested, [please get in touch](https://github.com/jzaefferer/jquery-validation/issues/1569).
 
 
-## Getting Started
+## 开始
 
 ### Downloading the prebuilt files
 
@@ -41,7 +41,7 @@ $("form").validate();
 </script>
 ```
 
-Alternatively include jQuery and the plugin via requirejs in your module.
+另一种选择通过requirejs包含jQuery和其插件在模型中。
 
 ```js
 define(["jquery", "jquery.validate"], function( $ ) {
